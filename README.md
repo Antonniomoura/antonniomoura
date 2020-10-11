@@ -1,7 +1,7 @@
 ## I'm a Developer WEB!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 Atualmente estou aprendendo tudo 🤣
+- 🥅 2020 Metas: Contribuir em projetos de código aberto. Tem algum em node aí?
 
 <img align="left" alt="antonniomoura's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=antonniomoura&show_icons=true&hide_border=true" />
 
